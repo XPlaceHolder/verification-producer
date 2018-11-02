@@ -1,4 +1,4 @@
-[![Build Status](https://xplaceholderci.gugagaga.fun/buildStatus/icon?job=kun-lun/verification-handler/draft)](https://xplaceholderci.gugagaga.fun/job/kun-lun/job/verification-handler/job/draft/)
+[![Build Status](https://xplaceholderci.gugagaga.fun/buildStatus/icon?job=kun-lun/verification-producer/draft)](https://xplaceholderci.gugagaga.fun/job/kun-lun/job/verification-producer/job/draft/)
 
 [![GoDoc](https://godoc.org/github.com/kun-lun/verification-producer?status.svg)](https://godoc.org/github.com/kun-lun/verification-producer)
 
